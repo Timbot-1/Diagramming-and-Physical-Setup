@@ -10,3 +10,7 @@ SKILLS ACQUIRED
 Network Planning and Diagramming
 TOOLS USED
 draw.io - a free, open source network diagram app. Versatile and easy to use!
+
+I am going to reconnect my network as shown to take advantage of the features of the NETGEAR switch. The Cisco switch is a dinosaur but it is good to know Cisco systems.
+
+<img width="815" height="662" alt="image" src="https://github.com/user-attachments/assets/467f88b0-3aae-418f-9c60-1bc924b3ec4c" />
